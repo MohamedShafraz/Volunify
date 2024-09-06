@@ -1,7 +1,4 @@
 # Volunify
 
-A new Flutter project.
+Volunify is a mobile app that addresses these challenges by serving as a comprehensive volunteer opportunity finder and matching platform.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
